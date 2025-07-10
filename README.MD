@@ -8,7 +8,7 @@
 
 Tipe kulit wajah seringkali mmenjadi topik pembicaraan bukan hanya di kalangan wanita, tak jarang kalangan pria juga membahasnya. Karena, dengan menentukan tipe kulit wajah, kita bisa dengan mudah merawatnya karena telah mengetahui apa dan bagaimana cara merawatnya.
 
-proyek ini dibuat dengan mengambil source code dari <a href="https://github.com/AhmadJanuarr/ayam-sehat"></a>. AhmadJanuarr.
+proyek ini dibuat dengan mengambil source code dari <a href="https://github.com/AhmadJanuarr/ayam-sehat"></a>. AhmadJanuarr. https://github.com/AhmadJanuarr/ayam-sehat
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
