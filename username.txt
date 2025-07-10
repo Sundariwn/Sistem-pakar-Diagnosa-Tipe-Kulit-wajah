@@ -1,0 +1,7 @@
+Pasien
+Username = ara
+Password = 12345678
+
+Admin
+Username = admin
+Password = 12345678
